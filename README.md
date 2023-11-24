@@ -2,7 +2,7 @@
 
 1. Clone the repo.
 ```bash
-git clone https://github.com/RaiyanArsh/Reelo-Assignment.git
+git clone https://github.com/vanshsingh2002/Reelo_Question.git
 ```
 
 2. Add questions inside data object in question-store.json file. \
